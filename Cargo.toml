@@ -1,0 +1,8 @@
+[package]
+name = "rogue"
+version = "0.1.0"
+authors = ["vwiart <vincent.wiart@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst = "0.10.0"
